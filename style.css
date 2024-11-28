@@ -1,5 +1,5 @@
 
-h1{
+#hello{
     background-color: saddlebrown;
     padding: 20px;
     text-align: center;
@@ -9,6 +9,11 @@ h1{
     color: whitesmoke;
     border: 10px solid white;
     border-radius:20px;
+}
+
+#margin{
+    background-color: turquoise;
+    display: inline-block;
 }
         
         

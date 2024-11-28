@@ -22,6 +22,7 @@ Margin:
 3. margin-bottom:20px; / margin: 0 0 20px 0; (taking margin from bottom)
 4. margin-left:20px; / margin: 0 0 0 20px; (taking margin from left)
 
+
 Written by Short Hand:
 
 1. margin: 20px; (taking margin from all side)
@@ -29,12 +30,8 @@ Written by Short Hand:
 3. margin: 0px 20px; (taking margin only right & left)
 
 
-
 Padding: Same as Margin 
 
-
-Border: 
-
-Background-Color: Doesn't Cross the border line
+Border: Background-Color Doesn't Cross the border line
 
 
